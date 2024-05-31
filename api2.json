@@ -1,0 +1,20 @@
+{
+  "adminRegisters": [
+    {
+      "id": "fbf5",
+      "fname": "Nabeel Akhtar",
+      "email": "nabeel@gmail.com",
+      "mobile": "9545213180",
+      "username": "nabeel@12",
+      "password": "123456"
+    },
+    {
+      "id": "5d97",
+      "fname": "Adeel Akhtar",
+      "email": "adeel@gmail.com",
+      "mobile": "8465132865",
+      "username": "adeel@797",
+      "password": "920648"
+    }
+  ]
+}

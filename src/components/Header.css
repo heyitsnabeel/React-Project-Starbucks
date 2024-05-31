@@ -1,0 +1,31 @@
+.stbks-img{
+    height: 4rem;
+    width: 4rem;
+}
+.panel-1{
+    color: black;
+}
+.panel-1:hover{
+    color: #008248;
+}
+.panel-2-b{
+    margin-left: 0.5rem;
+    margin-right: 4.5rem;
+}
+.panel-2-btn1{
+    border-radius: 20px;   
+    margin-right: 1rem;
+}
+.panel-2{
+    margin-left: 24%;
+}
+.panel-2-icon1{
+    margin-left: 10%;
+}
+.panel-2-lnk{
+    color: black;
+    text-decoration: none;
+}
+.panel-2-lnk:hover{
+    color: #008248;
+}
